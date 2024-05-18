@@ -65,6 +65,6 @@ export const Border = {
   br_6xs: 7,
   br_smi: 13,
   br_4xs: 9,
-  br_2xs: 11,
   br_17xl_2: 36,
+  br_2xs: 11,
 };
